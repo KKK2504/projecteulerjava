@@ -2,6 +2,7 @@
  // has 26 digits. This means that for any exponent greater than 25, 
  // the resulting number will have more digits than the exponent itself. 
  // Therefore, it's unnecessary to check exponents beyond 24.
+
  public class Main {
   public static void main(String[] args) {
         int result = countNthPowerDigits();
