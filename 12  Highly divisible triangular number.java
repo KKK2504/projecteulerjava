@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Set the target number of divisors
-        int targetDivisors = 500;
+        int targetDivisors = 500;//prblm in 500
         
         // Find the first triangle number with over 'targetDivisors' divisors
         long result = findTriangleWithDivisors(targetDivisors);
