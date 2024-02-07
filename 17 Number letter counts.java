@@ -1,5 +1,5 @@
 public class Main {
-    // Arrays to store word representations
+    // Arrays to store word representation
     //final keyword means that the value of the field cannot be changed once it's assigned.
     private static final String[] ones = { "", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
     private static final String[] teens = { "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
